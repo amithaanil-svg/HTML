@@ -1,0 +1,15 @@
+body {
+    background-color: DarkBlue;
+    color: Azure;
+    text-align: center;
+}
+
+h1 {
+    color: Crimson;
+    text-align: center;
+}
+
+p {
+    color: Azure;
+    text-align: left;
+}
